@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "mobile",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/icons/study@3x.png",
+    "splash": {
+      "image": "./src/assets/images/give-classes-background@3x.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8257e5"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./src/assets/images/icons/study@3x.png"
+    }
+  }
+}
